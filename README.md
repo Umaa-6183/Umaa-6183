@@ -1,5 +1,28 @@
 # 💫 About Me:
-I am an AI and Machine Learning enthusiast with a strong academic foundation in Computer Science and hands-on experience working with data-intensive systems, particularly biological datasets such as RNA-seq and gene expression data. I completed my Bachelor’s degree in Computer Science and Engineering and am currently pursuing my Master’s in Computer Science, where I have strengthened my understanding of machine learning, deep learning, data structures, algorithms, and scalable system design. Throughout my academic journey, I have consistently focused on bridging theoretical computer science concepts with real-world applications.<br><br>My primary interest lies at the intersection of artificial intelligence and life sciences. I am deeply motivated by the potential of data-driven approaches to address complex problems in healthcare, biological research, and systems-level modeling. During my academic and internship projects, I have worked on gene expression analysis, RNA-seq data processing, graph neural network modeling for gene regulatory networks, supervised learning for disease classification, and single-cell data clustering. These experiences have helped me develop strong analytical thinking, structured experimentation habits, and a deep appreciation for interdisciplinary problem-solving.<br><br>Beyond technical implementation, I am particularly interested in how AI systems can be translated into scalable, reliable, and impactful solutions. I enjoy designing end-to-end workflows — from data preprocessing and feature engineering to model development, evaluation, and deployment. Working with tools such as Python, PyTorch, Scikit-learn, SQL, and AWS has allowed me to understand both the research and engineering sides of machine learning systems. I am especially curious about how multi-omics integration, systems biology, and network-based modeling can be enhanced using advanced AI architectures.<br><br>Currently, I am learning more about advanced deep learning techniques, optimization strategies, cloud-based AI deployment workflows, and large language model applications. I am also strengthening my understanding of foundational biological concepts to build a more balanced computational-biology perspective. Continuous learning is central to my growth mindset, and I actively explore research papers, open-source tools, and real-world case studies to expand my knowledge.<br><br>I am looking to collaborate on interdisciplinary projects that combine artificial intelligence, data science, and real-world problem solving. I am particularly open to working on projects involving biological data analysis, predictive modeling, AI-driven healthcare applications, scalable ML deployment, or automation using AI tools. I enjoy working in environments where structured thinking, curiosity, and accountability are valued. Collaboration, knowledge-sharing, and iterative improvement are principles I strongly believe in.<br><br>For my upcoming projects, I aim to further explore multi-modal data integration, AI-assisted biological data interpretation, and building structured AI workflows that bridge research and production environments. I am interested in creating solutions that not only perform well technically but also maintain interpretability and reliability in practical settings.<br><br>Ask me about machine learning model evaluation, gene expression analysis, structured experimentation, or how AI can support biological research workflows. I enjoy discussing emerging AI trends, systems thinking, and the challenges of translating research ideas into real-world systems.<br><br>On a personal note, I am highly detail-oriented and analytical, but I also value creativity in problem-solving. I enjoy breaking down complex challenges into manageable components and systematically working toward solutions. I believe consistency, curiosity, and disciplined learning are key to long-term success.<br><br>Fun fact: I am genuinely fascinated by how patterns emerge in complex systems — whether in neural networks, biological pathways, or human behavior — and I enjoy exploring these patterns both academically and intellectually.<br><br>I am motivated to contribute to impactful projects, continuously grow technically and intellectually, and collaborate with teams that aim to build meaningful, future-ready solutions
+# Hi, I'm Umaa Maheshwary SV 👋
+
+AI | Machine Learning | Computational Biology | Bioinformatics
+
+🔬 Research Interests
+• AI in Healthcare
+• Bioinformatics
+• Graph Neural Networks
+• RNA-Seq Analysis
+• Computational Biology
+
+💻 Tech Stack
+Python | TensorFlow | PyTorch | Scikit-Learn | Docker | FastAPI
+
+📊 Current Focus
+Building AI systems for biomedical data analysis and healthcare.
+
+📚 Certifications
+• NPTEL – Research Methodology and IPR
+• Machine Learning Advanced – Reliance Jio
+
+🌐 Connect With Me
+LinkedIn: https://in.linkedin.com/in/umaa-maheshwary-sv
+Email: umaamaheshwarysv@gmail.com
 
 
 ## 🌐 Socials:
