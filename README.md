@@ -84,10 +84,10 @@ Machine Learning for Biomedical Data
 [![portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=portfolio&logoColor=white)](https://portfolio-umaa.vercel.app/)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=umaa-6183&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=umaa-6183&theme=blueberry&hide_border=false)<br/>
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=umaa-6183&show_icons=true)<br/>
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umaa-6183&layout=compact)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=umaa-6183&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=umaa-6183&theme=calm&no-frame=false&no-bg=false&margin-w=4)
