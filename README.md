@@ -144,7 +144,7 @@ Published in **IJRAR, Vol. 13, Issue 2, May 2026, pp. 399–405**.
 - AI for Healthcare & Life Sciences
 - Intelligent Scientific Systems
 
-# 🚀 Current Goals
+#  Current Goals
 
 - Build practical AI systems for healthcare, scientific research, and real-world applications
 - Explore the intersection of AI, computational biology, and quantum machine learning
@@ -152,7 +152,7 @@ Published in **IJRAR, Vol. 13, Issue 2, May 2026, pp. 399–405**.
 - Continue developing production-ready AI and full-stack applications
 - Expand research in AI, intelligent systems, and life-science applications
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umaa-maheshwary-sv)
 
@@ -168,7 +168,7 @@ Published in **IJRAR, Vol. 13, Issue 2, May 2026, pp. 399–405**.
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@UMAAMAHESHWARYSV-y3l)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=umaa-6183&show_icons=true)
 
